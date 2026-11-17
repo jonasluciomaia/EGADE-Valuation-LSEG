@@ -15,3 +15,7 @@
 ## LSEG fork v4
 - WALMEX restaurada seletivamente como caso ilustrativo em contexto, fórmulas e telas específicas.
 - Mantida linguagem genérica nas explicações metodológicas para evitar foco excessivo no caso.
+
+## LSEG fork v5
+- Removido o texto residual `html` antes da abertura do documento.
+- Adicionada declaração `<!DOCTYPE html>`.
